@@ -21,7 +21,7 @@
   },
   "extra": {
     "launchpad": {
-      "provider" : "LaunchpadRendererTakeOff\\ServiceProvider",
+      "library_provider" : "LaunchpadRendererTakeOff\\ServiceProvider",
       "command": "renderer:install",
       "install": true,
       "clean": true,
